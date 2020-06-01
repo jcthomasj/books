@@ -1,0 +1,109 @@
+{
+  "book": "Proverbs",
+  "translation": "NLT",
+  "chapter": 9,
+
+  "sections": [
+    {
+      "index": 1,
+      "title": "The Way of Wisdom"
+    },
+    {
+      "index": 2,
+      "title": "The Way of Folly"
+    }
+  ],
+
+  "verses": [
+    {
+      "index": 1,
+      "section": 1,
+      "verse": "Wisdom has built her house; she has carved its seven columns."
+    },
+    {
+      "index": 2,
+      "section": 1,
+      "verse": "She has prepared a great banquet, mixed the wines, and set the table."
+    },
+    {
+      "index": 3,
+      "section": 1,
+      "verse": "She has sent her servants to invite everyone to come. She calls out from the heights overlooking the city."
+    },
+    {
+      "index": 4,
+      "section": 1,
+      "verse": "\"Come in with me,\" she urges the simple. To those who lack good judgment, she says,"
+    },
+    {
+      "index": 5,
+      "section": 1,
+      "verse": "\"Come, eat my food, and drink the wine I have mixed."
+    },
+    {
+      "index": 6,
+      "section": 1,
+      "verse": "Leave your simple ways behind, and begin to live; learn to use good judgment.\""
+    },
+    {
+      "index": 7,
+      "section": 1,
+      "verse": "Anyone who rebukes a mocker will get an insult in return. Anyone who corrects the wicked will get hurt."
+    },
+    {
+      "index": 8,
+      "section": 1,
+      "verse": "So don't bother correcting the mockers; they will only hate you. But correct the wise, and they will love you."
+    },
+    {
+      "index": 9,
+      "section": 1,
+      "verse": "Instruct the wise, and they will be even wiser. Teach the righteous, and they will learn even more."
+    },
+    {
+      "index": 10,
+      "section": 1,
+      "verse": "Fear of the Lord is the foundation of wisdom. Knowledge of the Holy One results in good judgement."
+    },
+    {
+      "index": 11,
+      "section": 1,
+      "verse": "Wisdom will multiply your days and add years to your life."
+    },
+    {
+      "index": 12,
+      "section": 1,
+      "verse": "If you become wise, you will be the one to benefit. If you scorn wisdom, you will be the one to suffer."
+    },
+    {
+      "index": 13,
+      "section": 2,
+      "verse": "The woman named Folly is brash. She is ignorant and doesn't know it."
+    },
+    {
+      "index": 14,
+      "section": 2,
+      "verse": "She sits in her doorway on the heights overlooking the city."
+    },
+    {
+      "index": 15,
+      "section": 2,
+      "verse": "She calls out to men going by who are minding their own business."
+    },
+    {
+      "index": 16,
+      "section": 2,
+      "verse": "\"Come in with me,\" she urges the simple. To those who lack good judgment, se says,"
+    },
+    {
+      "index": 17,
+      "section": 2,
+      "verse": "\"Stolen water is refreshing; food eaten in secret tastes the best!\""
+    },
+    {
+      "index": 18,
+      "section": 2,
+      "verse": "But little do they know that the dead are there. Her guests are in the depths of the grave."
+    }
+  ]
+}

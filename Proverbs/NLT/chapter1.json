@@ -1,0 +1,199 @@
+{
+  "book": "Proverbs",
+  "translation": "NLT",
+  "chapter": 1,
+
+  "sections": [
+    {
+      "index": 1,
+      "title": "The Beginning of Knowledge"
+    },
+    {
+      "index": 2,
+      "title": "The Enticement of Sinners"
+    },
+    {
+      "index": 3,
+      "title": "The Call of Wisdom"
+    }
+  ],
+
+  "footnotes": [
+    {
+      "index": 1,
+      "note": "Hebrew <em>My son</em>; also in 1:10, 15"
+    },
+    {
+      "index": 2,
+      "note": "Hebrew <em>like Sheol</em>."
+    }
+  ],
+
+  "verses": [
+    {
+      "index": 1,
+      "section": 1,
+      "verse": "These are the proverbs of Solomon, David's son, king of Israel."
+    },
+    {
+      "index": 2,
+      "section": 1,
+      "verse": "Their purpose is to teach people wisdom and discipline, to help them understand the insights of the wise."
+    },
+    {
+      "index": 3,
+      "section": 1,
+      "verse": "Their purpose is to teach people to live disciplined and successful lives, to help them do what is right, just, and fair."
+    },
+    {
+      "index": 4,
+      "section": 1,
+      "verse": "These proverbs will give insight to the simple, knowledge and discernment to the young."
+    },
+    {
+      "index": 5,
+      "section": 1,
+      "verse": "Let the wise listen to these proverbs and become even wiser. Let those with understanding receive guidance"
+    },
+    {
+      "index": 6,
+      "section": 1,
+      "verse": "by exploring the meaning in these proverbs and parables, the words of the wise and their riddles."
+    },
+    {
+      "index": 7,
+      "section": 1,
+      "verse": "Fear of the Lord is the foundation of true knowledge, but fools despise wisdom and discipline."
+    },
+    {
+      "index": 8,
+      "section": 2,
+      "verse": "My child{{1}}, listen when your father corrects you. Don't neglect your mother's instruction."
+    },
+    {
+      "index": 9,
+      "section": 2,
+      "verse": "What you learn from them will crown you with grace and be a chain of honor around your neck."
+    },
+    {
+      "index": 10,
+      "section": 2,
+      "verse": "My child, if sinners entice you, turn your back on them!"
+    },
+    {
+      "index": 11,
+      "section": 2,
+      "verse": "They may say, \"Come and join us. Let's hide and kill someone! Just for fun, let's ambush the innocent!"
+    },
+    {
+      "index": 12,
+      "section": 2,
+      "verse": "Let's swallow them alive, like the grave{{2}}; let's swallow them whole, like those who go down to the pit of death."
+    },
+    {
+      "index": 13,
+      "section": 2,
+      "verse": "Think of the great things we'll get! We'll fill our houses with all the stuff we take."
+    },
+    {
+      "index": 14,
+      "section": 2,
+      "verse": "Come, throw in your lot with us; we'll all share the loot.\""
+    },
+    {
+      "index": 15,
+      "section": 2,
+      "verse": "My child, don't go along with them! Stay far away from their paths."
+    },
+    {
+      "index": 16,
+      "section": 2,
+      "verse": "They rush to commit evil deeds. They hurry to commit murder."
+    },
+    {
+      "index": 17,
+      "section": 2,
+      "verse": "If a bird sees a trap being set, it knows to stay away."
+    },
+    {
+      "index": 18,
+      "section": 2,
+      "verse": "But these people set an ambush for themselves; they are trying to get themselves killed."
+    },
+    {
+      "index": 19,
+      "section": 2,
+      "verse": "Such is the fate of all who are greedy for money; it robs them of life."
+    },
+    {
+      "index": 20,
+      "section": 3,
+      "verse": "Wisdom shouts in the streets. She cries out in the public square."
+    },
+    {
+      "index": 21,
+      "section": 3,
+      "verse": "She calls to the crowds along the main street, to those gathered in front of the city gate:"
+    },
+    {
+      "index": 22,
+      "section": 3,
+      "verse": "\"How long, you simpletons, will you insist on being simpleminded? How long will you mockers relish your mocking? How long will you fools hate knowledge?"
+    },
+    {
+      "index": 23,
+      "section": 3,
+      "verse": "Come and listen to my counsel. I'll share my heart with you and make you wise."
+    },
+    {
+      "index": 24,
+      "section": 3,
+      "verse": "I called you so often, but you wouldn't come. I reached out to you, but you paid no attention."
+    },
+    {
+      "index": 25,
+      "section": 3,
+      "verse": "You ignored my advice and rejected the correction I offered."
+    },
+    {
+      "index": 26,
+      "section": 3,
+      "verse": "So I will laugh when you are in trouble! I will mock you when a disaster overtakes you - "
+    },
+    {
+      "index": 27,
+      "section": 3,
+      "verse": "when calamity overtakes you like a storm, when disaster engulfs you like a cyclone, and anguish and distress overwhelm you."
+    },
+    {
+      "index": 28,
+      "section": 3,
+      "verse": "When they cry for help, I will not answer. Though they anxiously search for me, they will not find me."
+    },
+    {
+      "index": 29,
+      "section": 3,
+      "verse": "For they hated knowledge and chose not to fear the Lord."
+    },
+    {
+      "index": 30,
+      "section": 3,
+      "verse": "They rejected my advice and paid no attention when I corrected them."
+    },
+    {
+      "index": 31,
+      "section": 3,
+      "verse": "Therefore, they must eat the bitter fruit of living their own way, choking on their own schemes."
+    },
+    {
+      "index": 32,
+      "section": 3,
+      "verse": "For simpletons turn away from me - to death. Fools are destroyed by their own complacency."
+    },
+    {
+      "index": 33,
+      "section": 3,
+      "verse": "But all who listen to me will live in peace, untroubled by fear of harm."
+    }
+  ]
+}

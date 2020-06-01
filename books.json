@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Proverbs",
+    "name": "proverbs",
+    "translations": ["KJV", "NLT"],
+    "totalChapters": 31
+  },
+  {
+    "title": "Matthew",
+    "translations": ["KJV"],
+    "totalChapters": 28
+  }
+]
